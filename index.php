@@ -1,1 +1,1 @@
-<?php header("Location: https://www.amazon.com/gp/product/B009OBA2V8/ref=s9_acsd_simh_hd_bw_bFfHr_c_x_3_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-4&pf_rd_r=SGYGN6G9Z48HGVSD16MB&pf_rd_t=101&pf_rd_p=797c249d-c7e8-5998-9602-e0ce831c7bc7&pf_rd_i=3733631"); die(); ?>
+<?php header("Location: http://www.vogtbuilding.com"); die(); ?>
