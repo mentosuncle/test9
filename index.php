@@ -1,1 +1,1 @@
-<?php header("Location: http://www.yoursubjectyourprice.com/poems/"); die(); ?>
+<?php header("Location: https://www.homeplans.com"); die(); ?>
