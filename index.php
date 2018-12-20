@@ -1,1 +1,1 @@
-<?php header("Location: http://www.buildingcgroup.com/content"); die(); ?>
+<?php header("Location: https://www.target.com/s/kitchen+water+purifier"); die(); ?>
